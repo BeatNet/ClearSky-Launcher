@@ -1,2 +1,2 @@
 # ClearSky-Launcher
-My ClearSky Launcher
+My ClearSky Launcher  (MineCraft launcher)
